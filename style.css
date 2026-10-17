@@ -3,7 +3,7 @@
   --card: #ffffff;
   --text: #1e2a3a;
   --muted: #5b6b80;
-  --accent: #0f9d76;      /* เปลี่ยนสีปุ่มจาก #1769aa → เขียว (Part D) */
+  --accent: #1769aa;      /* เปลี่ยนสีปุ่มจาก #1769aa → เขียว (Part D) */
   --accent-hover: #0b7d5e;
   --chip: #e3f4ee;
 }
